@@ -12,7 +12,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 Visualized population distribution across countries using a histogram, 
 and India's population trend over time using a bar chart.
 
-📁 [View Task 01 Notebook](./Task-01/task01.ipynb)
+📁 [View Task 01 Notebook](https://github.com/khushiyadav47/Prodigy-InfoTech-Internship/blob/main/PRODIGY-DS-task01.ipynb)
 
 ---
 
